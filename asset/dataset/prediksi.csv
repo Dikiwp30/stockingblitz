@@ -1,0 +1,55 @@
+tanggal,jumlah,bahan,permintaan,day
+1-10,kurang dari 10 meter,imitasi kulit,naik,yes
+11-20,lebih dari 20 meter,benang nilon,turun,no
+21-30,kurang dari 10 meter,imitasi kulit,turun,yes
+21-30,kurang dari 10 meter,aksesoris tas,naik,no
+1-10,diantara 10 dan 20 meter,imitasi kulit,turun,yes
+1-10,diantara 10 dan 20 meter,benang nilon,turun,yes
+11-20,lebih dari 20 meter,benang nilon,naik,no
+1-10,kurang dari 10 meter,imitasi kulit,turun,yes
+21-30,kurang dari 10 meter,aksesoris tas,turun,yes
+11-20,kurang dari 10 meter,benang nilon,naik,yes
+21-30,diantara 10 dan 20 meter,aksesoris tas,turun,no
+1-10,diantara 10 dan 20 meter,imitasi kulit,naik,no
+21-30,lebih dari 20 meter,aksesoris tas,turun,no
+11-20,diantara 10 dan 20 meter,benang nilon,naik,no
+1-10,diantara 10 dan 20 meter,aksesoris tas,turun,yes
+1-10,lebih dari 20 meter,imitasi kulit,naik,no
+21-30,lebih dari 20 meter,aksesoris tas,naik,no
+11-20,diantara 10 dan 20 meter,benang nilon,turun,yes
+1-10,kurang dari 10 meter,benang nilon,turun,yes
+11-20,diantara 10 dan 20 meter,aksesoris tas,naik,no
+1-10,lebih dari 20 meter,imitasi kulit,turun,no
+21-30,diantara 10 dan 20 meter,aksesoris tas,naik,no
+11-20,kurang dari 10 meter,benang nilon,turun,yes
+21-30,lebih dari 20 meter,benang nilon,naik,no
+11-20,lebih dari 20 meter,aksesoris tas,turun,no
+1-10,diantara 10 dan 20 meter,benang nilon,naik,no
+21-30,lebih dari 20 meter,benang nilon,turun,no
+1-10,kurang dari 10 meter,benang nilon,naik,yes
+11-20,diantara 10 dan 20 meter,aksesoris tas,turun,yes
+21-30,kurang dari 10 meter,benang nilon,turun,yes
+11-20,kurang dari 10 meter,imitasi kulit,naik,yes
+1-10,lebih dari 20 meter,benang nilon,turun,yes
+11-20,diantara 10 dan 20 meter,imitasi kulit,turun,yes
+21-30,lebih dari 20 meter,imitasi kulit,naik,no
+11-20,kurang dari 10 meter,aksesoris tas,turun,yes
+1-10,lebih dari 20 meter,aksesoris tas,naik,no
+21-30,kurang dari 10 meter,benang nilon,naik,yes
+11-20,kurang dari 10 meter,aksesoris tas,naik,yes
+21-30,lebih dari 20 meter,imitasi kulit,turun,yes
+11-20,diantara 10 dan 20 meter,imitasi kulit,naik,no
+1-10,lebih dari 20 meter,aksesoris tas,turun,no
+11-20,kurang dari 10 meter,imitasi kulit,turun,yes
+21-30,diantara 10 dan 20 meter,benang nilon,naik,no
+21-30,kurang dari 10 meter,imitasi kulit,naik,yes
+11-20,lebih dari 20 meter,imitasi kulit,turun,no
+1-10,kurang dari 10 meter,aksesoris tas,naik,yes
+21-30,diantara 10 dan 20 meter,benang nilon,turun,yes
+1-10,diantara 10 dan 20 meter,aksesoris tas,naik,no
+11-20,lebih dari 20 meter,imitasi kulit,naik,no
+1-10,kurang dari 10 meter,aksesoris tas,turun,yes
+21-30,diantara 10 dan 20 meter,imitasi kulit,naik,no
+1-10,lebih dari 20 meter,benang nilon,naik,no
+21-30,diantara 10 dan 20 meter,imitasi kulit,turun,yes
+11-20,lebih dari 20 meter,aksesoris tas,naik,no
